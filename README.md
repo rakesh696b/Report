@@ -1,4 +1,5 @@
 # Ecommerce Sales Report
+![image](https://github.com/user-attachments/assets/08efc453-caba-40de-b53c-89357a82e7c1)
 
 ## Problem Statement
 
@@ -35,7 +36,7 @@ Also since discounts need to be based on the type of product and different regio
 			MAX(ecommerce_data[order_date]
 				)
 			)
- Snap of Calender Table
+ 	Snap of Calendar Table
 ![Snap_calender](https://github.com/user-attachments/assets/266d4e20-d0b7-4628-85b1-10fd0e8d387e)
 
         
@@ -55,7 +56,7 @@ Also since discounts need to be based on the type of product and different regio
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Snap_Dashboard](https://github.com/user-attachments/assets/db380ff3-27d2-4f24-8506-0facde940399)
+![Snap_DAshboard](https://github.com/user-attachments/assets/08efc453-caba-40de-b53c-89357a82e7c1)
 
 # Insights
 
