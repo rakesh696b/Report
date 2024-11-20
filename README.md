@@ -35,7 +35,7 @@ Also since discounts need to be based on the type of product and different regio
 			MAX(ecommerce_data[order_date]
 				)
 			)
-Snap of Calender Table
+ Snap of Calender Table
 ![Snap_calender](https://github.com/user-attachments/assets/266d4e20-d0b7-4628-85b1-10fd0e8d387e)
 
         
